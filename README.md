@@ -44,7 +44,7 @@ And it hides these deployment modes behind a single, seamless interface.
 [![Platforms](https://img.shields.io/badge/GPU-AMD-6699ff.svg)](https://docs.amd.com/bundle/HIP-Programming-Guide-v5.3)
 [![Platforms](https://img.shields.io/badge/GPU-cuQuantum-6699ff.svg)](https://developer.nvidia.com/cuquantum-sdk)
 
-QuEST is developed by the [QTechTheory](http://qtechtheory.org/) group at the University of Oxford, and [these authors](https://github.com/QuEST-Kit/QuEST/blob/master/AUTHORS.txt). To learn more:
+QuEST is developed by the [QTechTheory](http://qtechtheory.org/) group at the University of Oxford, with support of the UK [National Quantum Computing centre](https://www.nqcc.ac.uk/) (_NQCC200921_), and [these authors](https://github.com/QuEST-Kit/QuEST/blob/master/AUTHORS.txt). To learn more:
 - see the [tutorial](https://github.com/QuEST-Kit/QuEST/blob/master/examples/README.md)
 - view the [documentation](https://quest-kit.github.io/QuEST/modules.html)
 - visit the [website](https://quest.qtechtheory.org/)
